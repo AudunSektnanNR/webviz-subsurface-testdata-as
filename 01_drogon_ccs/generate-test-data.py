@@ -1,5 +1,5 @@
 """
-This script generates data for the webviz subsurface plugin "CO2 Leakage". The data
+This script generates data for the webviz subsurface plugin "CO2 Migration". The data
 generation is done in an ad-hoc and pragmatic manner. The primary purpose is to adhere to
 the folder structure, file formats and naming conventions expected by the plugin.
 

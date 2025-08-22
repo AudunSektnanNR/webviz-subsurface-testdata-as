@@ -1,7 +1,7 @@
 # This is an example configuration file for the test data set in 01_drogon_ccs
 # Note: Need to replace the file paths
 
-title: CO2 Leakage - Test example
+title: CO2 Migration - Test example
 
 shared_settings:
   scratch_ensembles:
@@ -10,9 +10,9 @@ shared_settings:
 # wellfile: &wellfile /home/sek/dev/webviz-subsurface-testdata-as/01_drogon_ccs/realization-0/iter-0/share/results/wells/well_picks.csv
 
 layout:
- - page: "CO2Leakage"
+ - page: "CO2Migration"
    content:
-     - CO2Leakage:
+     - CO2Migration:
          ensembles:
            - ens
          plume_mass_relpath: "share/results/tables/plume_mass.csv"
