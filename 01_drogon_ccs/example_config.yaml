@@ -31,5 +31,5 @@ layout:
            MIGRATION_TIME_SGAS: "migrationtime_sgas"
            MIGRATION_TIME_AMFG: "migrationtime_amfg"
            MASS: "co2-mass-total"
-           DISSOLVED: "co2-mass-aqu-phase" 
+           DISSOLVED_WATER: "co2-mass-dissolved_water-phase"
            FREE: "co2-mass-gas-phase" 
